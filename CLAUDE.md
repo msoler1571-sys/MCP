@@ -17,8 +17,12 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 
 ## Presupuestos
 
+- Marc no quiere condiciones invasivas: nada de penalizaciones ni plazos de pago impuestos; factura por pedido o mensual, como prefiera el cliente.
+- Maquetación: ninguna sección puede quedar partida entre dos páginas; si no cabe, pasa entera a la siguiente.
+- Ejemplos de sabores: variados y repartidos (no repetir carne suave y carne a cuchillo, que son casi iguales; incluir atún y otros), al final del documento y como orientativos.
+
 - Último número usado: **023** (THEKER, 22/10/2026). Plantilla: Presupuesto_Fundacio_Eina.docx (nº 022) en Drive.
 
 ## Leads activos
 
-- **THEKER (Jessica):** reunión semanal de toda la empresa, viernes 18 h, Pere IV 78 (Poblenou). 60 personas, 120 empanadas (84 clásicas con 12 veggie y 2 halal + 36 premium) = 357,60 € + IVA por viernes, pedido entregado. 22/10/2026: propuesta enviada por WhatsApp; la valoran con dirección. Piden propuesta por mail: presupuesto 023 con dos opciones — A variada (84 clásicas + 36 premium) 357,60 € + IVA; B solo premium (118 premium + 2 clásicas halal) 406,80 € + IVA. Incluye entrega, cajas etiquetadas, chimichurri, alfajores de bienvenida el primer viernes y precios fijos hasta 31/03/2027. Sin descuento.
+- **THEKER (Jessica):** reunión semanal de toda la empresa, viernes 18 h, Pere IV 78 (Poblenou). 60 personas, 120 empanadas (84 clásicas con 12 veggie y 2 halal + 36 premium) = 357,60 € + IVA por viernes, pedido entregado. 22/10/2026: propuesta enviada por WhatsApp; la valoran con dirección. Piden propuesta por mail: presupuesto 023 con dos opciones — A solo clásicas (120) 336,00 € + IVA; B clásicas y premium (84 + 36) 357,60 € + IVA. Gancho: primer viernes al 50 % + alfajores mini de regalo, precios fijos hasta 31/03/2027. Condiciones flexibles (factura por pedido o mensual, sin penalizaciones).
