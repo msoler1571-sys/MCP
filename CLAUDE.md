@@ -8,3 +8,13 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 - Sabores halal disponibles:
   - Carne suave
   - Carne picante
+- Vegetarianas que se ofrecen: humita, espinaca y queso, caprese, cebolla y queso (vegana: verduras).
+
+## Precios (sin IVA, vigentes oct 2026)
+
+- **Pedido entregado:** clásica o veggie 2,80 €, premium 3,40 €, alfajor mini 1,30 €. Mínimo 90 €. Entrega en Barcelona incluida desde 150 € (por debajo, 15 €). Se entregan recién horneadas, en cajas para abrir y comer, marcadas por sabor; veggie y halal en cajas aparte.
+- **Córner con horno in situ:** afterwork 14 €/persona (3 empanadas + 1 alfajor mini), cóctel de Navidad 12 €/persona. Mínimo 40 personas; desde 80, a medida. Entre semana desde las 18 h y fines de semana.
+
+## Leads activos
+
+- **THEKER (Jessica):** reunión semanal de toda la empresa, viernes 18 h, Pere IV 78 (Poblenou). 60 personas, 120 empanadas (84 clásicas con 12 veggie y 2 halal + 36 premium) = 357,60 € + IVA por viernes, pedido entregado. 22/10/2026: propuesta enviada por WhatsApp; la valoran con dirección.
