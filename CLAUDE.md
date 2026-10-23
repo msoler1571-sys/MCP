@@ -14,6 +14,11 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 
 - **Pedido entregado:** clásica o veggie 2,80 €, premium 3,40 €, alfajor mini 1,30 €. Mínimo 90 €. Entrega en Barcelona incluida desde 150 € (por debajo, 15 €). Se entregan recién horneadas, en cajas para abrir y comer, marcadas por sabor; veggie y halal en cajas aparte.
 - **Córner con horno in situ:** afterwork 14 €/persona (3 empanadas + 1 alfajor mini), cóctel de Navidad 12 €/persona. Mínimo 40 personas; desde 80, a medida. Entre semana desde las 18 h y fines de semana.
+- **Profesional / congelado (cotizado, sin tarifa escrita todavía):**
+  - ByKoko (19/10/2026): clásica 1,55 €, premium 1,75 €; cajas de un sabor; mínimo 2 cajas en BCN, 4 fuera de zona; entrega 15 €, incluida desde 10 cajas.
+  - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €.
+  - Coste de compra (Tío Bigotes): clásica 1,13 € congelada / 1,25 € cocinada; premium 1,30 € / 1,40 €. A 1,35 € la clásica cocinada deja solo 0,10 €/ud.
+  - Ojo: a ByKoko se le dijo "cajas de 50"; la ficha de costes dice 30 uds/caja en clásicas. Verificar.
 
 ## Presupuestos
 
@@ -28,4 +33,11 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 
 ## Leads activos
 
-- **THEKER (Jessica):** reunión semanal de toda la empresa, viernes 18 h, Pere IV 78 (Poblenou). 60 personas, 120 empanadas (84 clásicas con 12 veggie y 2 halal + 36 premium) = 357,60 € + IVA por viernes, pedido entregado. 22/10/2026: propuesta enviada por WhatsApp; la valoran con dirección. Piden propuesta por mail: presupuesto 023 con dos opciones — A solo clásicas (120) 336,00 € + IVA; B clásicas y premium (84 + 36) 357,60 € + IVA. Modalidades: semana a semana (precio normal, sin compromiso, factura por pedido) o mes completo pagado por adelantado con −5 % (A 319,20 € / B 339,72 € por viernes). Gancho: alfajores mini de regalo el primer viernes; sin permanencia; precios fijos hasta 31/03/2027. Sin chimichurri. Borrador listo en hola@twobites.es con el PDF adjunto (22/10/2026), ofreciendo además caja de degustación recién horneada para el equipo; falta que Marc lo revise y lo envíe.
+- **THEKER (Jessica):** reunión semanal de toda la empresa, viernes 18 h, Pere IV 78 (Poblenou). 60 personas, 120 empanadas (84 clásicas con 12 veggie y 2 halal + 36 premium) = 357,60 € + IVA por viernes, pedido entregado. 22/10/2026: propuesta enviada por WhatsApp; la valoran con dirección. Piden propuesta por mail: presupuesto 023 con dos opciones — A solo clásicas (120) 336,00 € + IVA; B clásicas y premium (84 + 36) 357,60 € + IVA. Modalidades: semana a semana (precio normal, sin compromiso, factura por pedido) o mes completo pagado por adelantado con −5 % (A 319,20 € / B 339,72 € por viernes). Gancho: alfajores mini de regalo el primer viernes; sin permanencia; precios fijos hasta 31/03/2027. Sin chimichurri. Mail con el PDF enviado el 22/10/2026, ofreciendo además caja de degustación recién horneada para el equipo. Seguimiento: martes 27/10 si no contestan.
+- **Marca Condal (Héctor):** alta como proveedor. Caja de degustación propuesta para el martes 27 o miércoles 28/10 a las 17:30 en Abat Samsó 14.
+- **Serunion UAB (Freddy → Carmen, 4 cafeterías):** Carmen espera las muestras en la cafetería de Traducció (está hasta 16–16:30; tel. en el hilo). Falta fijar día.
+- **Take Studios (Keke):** quieren conocernos en su espacio; falta fijar día.
+- **ByKoko (Josep):** distribuidor de ferias. Caja de tasta en el congelador (regalada, factura anulada); "ja t'avisaré".
+- **Virginia / Luma (Llinars):** abren en ~1 mes; caja probada sin feedback; dos seguimientos sin respuesta.
+- **Aramark:** ya escrito a compras@aramark.es el 22/10 (alta proveedor UAB). Las cafeterías redirigen a la central.
+- Perdidos: Fundació Eina / DIFRACTA ’26 (eligieron otra propuesta; recontactar para DIFRACTA ’27), Giuliana Eye Events (al día siguiente también había empanadas).
