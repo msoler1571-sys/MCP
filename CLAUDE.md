@@ -17,8 +17,8 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 - **Tarifa HORECA escrita (Drive, feb 2026; congelado, cajas completas):** clásica 1,50 € (1–2 cajas) / 1,35 € (3–5) / 1,275 € (6+); premium 1,95 / 1,75 / 1,65 €; copetín 0,85 / 0,765 / 0,722 €; alfajor grande 1,40 € primer pedido / 1,60 €; mini 0,60 / 0,80 €; pistacho mini 0,75 / 0,95 €. La hoja "Productos y costes" usa otro criterio (clásica 1,35 € mínimo / 1,45 € ideal). Las cotizaciones de oct (ByKoko, Luma) no siguen ninguna de las dos.
 - **Profesional / congelado (cotizado):**
   - ByKoko (19/10/2026): clásica 1,55 €, premium 1,75 €; cajas de un sabor; mínimo 2 cajas en BCN, 4 fuera de zona; entrega 15 €, incluida desde 10 cajas.
-  - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €.
-  - Coste de compra (Tío Bigotes): clásica 1,13 € congelada / 1,25 € cocinada; premium 1,30 € / 1,40 €. A 1,35 € la clásica cocinada deja solo 0,10 €/ud.
+  - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €. **Se les sirve congelado** (coste 1,13 € clásica / 1,30 € premium, confirmado por Marc 26/10/2026): margen 0,27 → 0,22 €/ud clásica y 0,40 → 0,35 €/ud premium, antes de la entrega en Llinars.
+  - Coste de compra (Tío Bigotes): clásica 1,13 € congelada / 1,25 € cocinada; premium 1,30 € / 1,40 €.
   - Ojo: a ByKoko se le dijo "cajas de 50"; la ficha de costes dice 30 uds/caja en clásicas. Verificar.
 
 ## Clientes y datos reales
