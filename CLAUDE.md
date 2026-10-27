@@ -14,11 +14,26 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 
 - **Pedido entregado:** clásica o veggie 2,80 €, premium 3,40 €, alfajor mini 1,30 €. Mínimo 90 €. Entrega en Barcelona incluida desde 150 € (por debajo, 15 €). Se entregan recién horneadas, en cajas para abrir y comer, marcadas por sabor; veggie y halal en cajas aparte.
 - **Córner con horno in situ:** afterwork 14 €/persona (3 empanadas + 1 alfajor mini), cóctel de Navidad 12 €/persona. Mínimo 40 personas; desde 80, a medida. Entre semana desde las 18 h y fines de semana.
-- **Profesional / congelado (cotizado, sin tarifa escrita todavía):**
+- **Tarifa HORECA escrita (Drive, feb 2026; congelado, cajas completas):** clásica 1,50 € (1–2 cajas) / 1,35 € (3–5) / 1,275 € (6+); premium 1,95 / 1,75 / 1,65 €; copetín 0,85 / 0,765 / 0,722 €; alfajor grande 1,40 € primer pedido / 1,60 €; mini 0,60 / 0,80 €; pistacho mini 0,75 / 0,95 €. La hoja "Productos y costes" usa otro criterio (clásica 1,35 € mínimo / 1,45 € ideal). Las cotizaciones de oct (ByKoko, Luma) no siguen ninguna de las dos.
+- **Profesional / congelado (cotizado):**
   - ByKoko (19/10/2026): clásica 1,55 €, premium 1,75 €; cajas de un sabor; mínimo 2 cajas en BCN, 4 fuera de zona; entrega 15 €, incluida desde 10 cajas.
-  - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €.
-  - Coste de compra (Tío Bigotes): clásica 1,13 € congelada / 1,25 € cocinada; premium 1,30 € / 1,40 €. A 1,35 € la clásica cocinada deja solo 0,10 €/ud.
+  - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €. **Se les sirve congelado** (coste 1,13 € clásica / 1,30 € premium, confirmado por Marc 26/10/2026): margen 0,27 → 0,22 €/ud clásica y 0,40 → 0,35 €/ud premium, antes de la entrega en Llinars.
+  - Coste de compra (Tío Bigotes): clásica 1,13 € congelada / 1,25 € cocinada; premium 1,30 € / 1,40 €.
   - Ojo: a ByKoko se le dijo "cajas de 50"; la ficha de costes dice 30 uds/caja en clásicas. Verificar.
+
+## Clientes y datos reales
+
+- **Per Tutti (Balbi), HORECA:** 3 cajas de clásicas a 1,35 € casi cada semana (ene–abr 2026): 121,50 € por pedido, 19,80 € de margen bruto (16,3 %).
+- **Pangea:** activo (campaña). **Otto:** en prueba. **Nomad:** no encajaron.
+- Logística estimada: 5,04 € por pedido (Tabla maestra de márgenes).
+- El diario de ventas no tiene registros desde abril 2026.
+
+## Fuentes en Drive
+
+- "TARIFAS DE VENTA HORECA (CAFETERÍAS/TIENDAS)", "PRECIOS A CAFETERÍAS", "COSTES UNITARIOS DE COMPRA (TIO BIGOTES)" (30 uds/caja clásica y premium, 40 copetín).
+- "GASTOS-VENTAS (Two Bites)": diario de ventas, productos y costes, CRM de clientes.
+- "PLAN DE ESCALADO — Two Bites (jul 2026 → mar 2027)": objetivos de margen mensual y condiciones para dar el salto en marzo 2027.
+- "TABLA MAESTRA DE MÁRGENES REALES – GESTIÓN INTERNA": packs corporativos antiguos.
 
 ## Presupuestos
 
