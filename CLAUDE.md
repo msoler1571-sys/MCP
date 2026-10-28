@@ -9,7 +9,11 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
   - Carne suave
   - Carne picante
 - Vegetarianas que se ofrecen: humita, espinaca y queso, caprese, cebolla y queso (vegana: verduras).
-- **Conservación (argumento "sin merma"):** congeladas hasta 12 meses; lo horneado que no se vende aguanta hasta 5 días en nevera; el cliente hornea solo lo que vende.
+- **Conservación (fichas técnicas en Drive, oct 2026):**
+  - Cruda congelada: caja de 30, 365 días a −18 °C. Hornear 7 min a 270 °C sin descongelar.
+  - Cocinada congelada: caja de 50. Regenerar desde congelada 12 min en horno convencional o 2 min en horno rápido; descongelada, 1 min a 270 °C. Descongelada en nevera aguanta 10 días (5 para conservar todas sus características); no se vuelve a congelar.
+  - Una vez horneadas (las dos): consumir en 24 h o máx. 48 h en nevera (2–4 °C). El "5 días en nevera" que se usaba es de la cocinada descongelada sin hornear, no de lo horneado.
+  - Argumento "sin merma": del congelador al horno en 7 min, el cliente hornea solo lo que vende.
 - Copetín: 30–35 g, cajas de 40, coste 0,55 € crudo / 0,65 € cocinado.
 
 ## Precios (sin IVA, vigentes oct 2026)
@@ -20,7 +24,7 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
   - ByKoko (19/10/2026): clásica 1,55 €, premium 1,75 €; cajas de un sabor; mínimo 2 cajas en BCN, 4 fuera de zona; entrega 15 €, incluida desde 10 cajas.
   - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €.
   - Coste de compra (Tío Bigotes): clásica 1,13 € congelada / 1,25 € cocinada; premium 1,30 € / 1,40 €. A 1,35 € la clásica cocinada deja solo 0,10 €/ud.
-  - Ojo: a ByKoko se le dijo "cajas de 50"; la ficha de costes dice 30 uds/caja en clásicas. Verificar.
+  - Cajas según las fichas técnicas: cruda 30 uds, cocinada 50 uds. Las "cajas de 50" que se le dijeron a ByKoko cuadran si su producto es la cocinada.
 
 ## Presupuestos
 
@@ -31,7 +35,7 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 - Maquetación: ninguna sección puede quedar partida entre dos páginas; si no cabe, pasa entera a la siguiente.
 - Ejemplos de sabores: variados y repartidos (no repetir carne suave y carne a cuchillo, que son casi iguales; incluir atún y otros), al final del documento y como orientativos.
 
-- Último número usado: **023** (THEKER, 22/10/2026). Plantilla: Presupuesto_Fundacio_Eina.docx (nº 022) en Drive.
+- Último número usado: **023** (THEKER, 22/10/2026). Plantilla: Presupuesto_Fundacio_Eina.docx (nº 022) en Drive. En Drive también hay Presupuesto_024_THEKER (27/10/2026): confirmar con Marc antes de numerar el siguiente.
 
 ## Leads activos
 
