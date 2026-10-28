@@ -54,5 +54,6 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 - **Take Studios (Keke):** quieren conocernos en su espacio; falta fijar día.
 - **ByKoko (Josep):** distribuidor de ferias. Caja de tasta en el congelador (regalada, factura anulada); "ja t'avisaré".
 - **Virginia / Luma (Llinars):** abren en ~1 mes; caja probada sin feedback; dos seguimientos sin respuesta.
+- **Mercantic (Sara Guerrero, market@mercantic.com):** parada en el Vintage Fest (primer domingo de mes); objetivo: diciembre. 28/10: enviadas fotos y potencia (230 V, 16 A, ~3.000 W). Marc propuso visita el jueves 5/11 a las 16:30 con degustación; Sara respondió "ens veiem el dissabte vinent" (confusión). Borrador de respuesta en Gmail: el sábado Marc está en Palo Market; confirmar jueves 5/11 16:30 o viernes 6/11.
 - **Aramark:** ya escrito a compras@aramark.es el 22/10 (alta proveedor UAB). Las cafeterías redirigen a la central.
 - Perdidos: Fundació Eina / DIFRACTA ’26 (eligieron otra propuesta; recontactar para DIFRACTA ’27), Giuliana Eye Events (al día siguiente también había empanadas).
