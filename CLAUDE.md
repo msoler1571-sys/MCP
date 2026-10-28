@@ -11,9 +11,10 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 - Vegetarianas que se ofrecen: humita, espinaca y queso, caprese, cebolla y queso (vegana: verduras).
 - **Conservación (fichas técnicas en Drive, oct 2026):**
   - Cruda congelada: caja de 30, 365 días a −18 °C. Hornear 7 min a 270 °C sin descongelar.
+  - En horno profesional de cafetería-panadería (Pol Balbi, WhatsApp 13/03/2026): 200–210 °C, 7–10 min, girando la bandeja a mitad de cocción. "Cada horno es diferente".
   - Cocinada congelada: caja de 50. Regenerar desde congelada 12 min en horno convencional o 2 min en horno rápido; descongelada, 1 min a 270 °C. Descongelada en nevera aguanta 10 días (5 para conservar todas sus características); no se vuelve a congelar.
   - Una vez horneadas (las dos): consumir en 24 h o máx. 48 h en nevera (2–4 °C). El "5 días en nevera" que se usaba es de la cocinada descongelada sin hornear, no de lo horneado.
-  - Argumento "sin merma": del congelador al horno en 7 min, el cliente hornea solo lo que vende.
+  - Argumento "sin merma": del congelador al horno en 7–10 min, el cliente hornea solo lo que vende.
 - Copetín: 30–35 g, cajas de 40, coste 0,55 € crudo / 0,65 € cocinado.
 
 ## Precios (sin IVA, vigentes oct 2026)
