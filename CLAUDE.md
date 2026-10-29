@@ -21,6 +21,7 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 
 - **Pedido entregado:** clásica o veggie 2,80 €, premium 3,40 €, alfajor mini 1,30 €. Mínimo 90 €. Entrega en Barcelona incluida desde 150 € (por debajo, 15 €). Se entregan recién horneadas, en cajas para abrir y comer, marcadas por sabor; veggie y halal en cajas aparte.
 - **Córner con horno in situ:** afterwork 14 €/persona (3 empanadas + 1 alfajor mini), cóctel de Navidad 12 €/persona. Mínimo 40 personas; desde 80, a medida. Entre semana desde las 18 h y fines de semana.
+- **Recena de boda con córner (propuesta a Mas Vidrier, 28/10/2026):** 9 €/invitado sin IVA, para el espacio (el precio a las parejas lo pone él). Incluye 2 empanadas por invitado con chimichurri y servilletas, horno propio y servicio de 2 personas hasta 2 h; hora extra 35 €. Mínimo 80 invitados (720 €).
 - **Profesional / congelado (cotizado, sin tarifa escrita todavía):**
   - ByKoko (19/10/2026): clásica 1,55 €, premium 1,75 €; cajas de un sabor; mínimo 2 cajas en BCN, 4 fuera de zona; entrega 15 €, incluida desde 10 cajas.
   - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €.
@@ -48,6 +49,7 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
   - Competencia: ya venden crestas de Europastry (vegana, carn, pernil i formatge) a 2,20 € PVP, unas 5–10 al día (aclarar si es en Traducció o entre las 4).
   - Carta "b'tes by Serunion" (foto 28/10): empanada gallega porció 2,35 €, croissant York i formatge 2,45 €, minis de bocadillo 2,80 €, bocadillos 3,05–4,45 €.
   - A 2,20 € de PVP, a Carmen solo le quedan 0,55–0,69 €/ud (28–35 %). Propuesta pendiente de decidir: PVP 2,50 € (0,82–0,96 €/ud).
+- **Mas Vidrier (Ivan Perez, eventos@masvidrier.com, 626 258 325):** espacio de bodas a 10 min del obrador (Cervelló). 26/10: correo en frío sobre la recena. 28/10: Marc le adelanta tarifas: recena con córner 9 €/invitado (ver Precios) y, como alternativa, crudas congeladas para su equipo a 1,40 € clásica y 1,75 € premium, en cajas de 30 de un sabor y con entrega incluida. En ese correo se puso "halal bajo pedido": ya está en stock, corregirlo. Cata el jueves 29/10 a las 16:15 en Mas Vidrier, con empanadas recién horneadas.
 - **Take Studios (Keke):** quieren conocernos en su espacio; falta fijar día.
 - **ByKoko (Josep):** distribuidor de ferias. Caja de tasta en el congelador (regalada, factura anulada); "ja t'avisaré".
 - **Virginia / Luma (Llinars):** abren en ~1 mes; caja probada sin feedback; dos seguimientos sin respuesta.
