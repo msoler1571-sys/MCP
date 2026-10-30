@@ -54,7 +54,7 @@ Nunca más de 3 seguimientos sin respuesta.
 1. **Diagnóstico** (2–3 líneas): segmento, fase, riesgo principal.
 2. **Margen** de la propuesta (tabla corta), con aviso si queda por debajo del suelo.
 3. **Mensaje listo para enviar**, en el canal que toque (WhatsApp y/o mail), con el tono de Marc: cercano, directo, sin presión.
-4. **Propuesta**: si hace falta presupuesto formal, usa la plantilla de Drive (Presupuesto_Fundacio_Eina.docx) y el siguiente número de `CLAUDE.md`. Ninguna sección partida entre páginas; ejemplos de sabores variados al final, como orientativos.
+4. **Propuesta**: si hace falta presupuesto formal, usa la plantilla de Drive (Presupuesto_Fundacio_Eina.docx) y el siguiente número de `CLAUDE.md`. Ninguna sección partida entre páginas; ejemplos de sabores variados al final, como orientativos. Para repartir sabores en un pedido real (HORECA o stock de evento), usa la sección "Sabores por canal" de `CLAUDE.md` del canal que toque, nunca la de otro.
 5. **Siguiente paso con fecha** y, si hay Calendar conectado, propón crear el recordatorio.
 
 Los mails se dejan como **borrador**; nunca se envían sin el visto bueno de Marc.

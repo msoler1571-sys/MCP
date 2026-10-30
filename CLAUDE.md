@@ -19,7 +19,7 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
   - ByKoko (19/10/2026): clásica 1,55 €, premium 1,75 €; cajas de un sabor; mínimo 2 cajas en BCN, 4 fuera de zona; entrega 15 €, incluida desde 10 cajas.
   - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €. **Se les sirve congelado** (coste 1,13 € clásica / 1,30 € premium, confirmado por Marc 26/10/2026): margen 0,27 → 0,22 €/ud clásica y 0,40 → 0,35 €/ud premium, antes de la entrega en Llinars.
   - Coste de compra (Tío Bigotes): clásica 1,13 € congelada / 1,25 € cocinada; premium 1,30 € / 1,40 €.
-  - Ojo: a ByKoko se le dijo "cajas de 50"; la ficha de costes dice 30 uds/caja en clásicas. Verificar.
+  - Ojo con las cajas: la ficha de costes dice 30 uds/caja, pero el manual de Palo (compra real de sep 2026) usa cajas de 50 para las cocinadas congeladas (a 1,25 €) y de 30 para las crudas congeladas. A ByKoko se le dijo "cajas de 50": confirmar qué formato lleva.
 
 ## Clientes y datos reales
 
@@ -27,6 +27,21 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 - **Pangea:** activo (campaña). **Otto:** en prueba. **Nomad:** no encajaron.
 - Logística estimada: 5,04 € por pedido (Tabla maestra de márgenes).
 - El diario de ventas no tiene registros desde abril 2026.
+
+## Sabores por canal
+
+El surtido se decide por canal y por plaza; nunca se copia el reparto de otro canal (regla del manual de Palo).
+
+| Canal | Lo que más se vende | Lo que menos | Fuente |
+|---|---|---|---|
+| Supermercado (Caprabo, marca "La Salteña del Tío Bigotes") | Pollo > carne a cuchillo > carne picante > carne suave | Espinaca y caprese | Compañero de Tío Bigotes, 30/10/2026 |
+| Cafetería (Per Tutti) | Carne suave y pollo suave fijos; rota carne picante, jamón y queso y otros | Caprese (la cambió por carne picante) | Diario de ventas, ene–abr 2026 |
+| Market urbano (Palo, 5–6/09/2026) | Caprese 103 uds (69 % de lo comprado), carne a cuchillo 96 (65 %) | Pollo 72 (48 %), jamón y queso 62 (41 %) | Manual de Palo |
+| Festival de pueblo | Jamón y queso (~100 %), caprese | Carne a cuchillo (lo que más sobró) | Manual de Palo |
+
+- Caprabo: 2 pedidos por semana (martes y jueves) de 120 cajas de 6 = 720 uds por pedido, ~1.440 uds por semana. **Dato interno de un empleado de Tío Bigotes: no citarlo a clientes ni a terceros.**
+- En Palo, el pack de 6 tuvo cero ventas en todo el fin de semana (septiembre 2026).
+- Oficinas: sin datos de sabores todavía.
 
 ## Fuentes en Drive
 
