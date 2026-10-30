@@ -34,12 +34,14 @@ El surtido se decide por canal y por plaza; nunca se copia el reparto de otro ca
 
 | Canal | Lo que más se vende | Lo que menos | Fuente |
 |---|---|---|---|
-| Supermercado (Caprabo, marca "La Salteña del Tío Bigotes") | Pollo > carne a cuchillo > carne picante > carne suave | Espinaca y caprese | Compañero de Tío Bigotes, 30/10/2026 |
+| Cafeterías dentro de supermercados Caprabo (zona norte, según recuerda Marc; marca "La Salteña del Tío Bigotes") | Pollo > carne a cuchillo > carne picante > carne suave | Espinaca y caprese | Compañero de Tío Bigotes, 30/10/2026 |
 | Cafetería (Per Tutti) | Carne suave y pollo suave fijos; rota carne picante, jamón y queso y otros | Caprese (la cambió por carne picante) | Diario de ventas, ene–abr 2026 |
 | Market urbano (Palo, 5–6/09/2026) | Caprese 103 uds (69 % de lo comprado), carne a cuchillo 96 (65 %) | Pollo 72 (48 %), jamón y queso 62 (41 %) | Manual de Palo |
 | Festival de pueblo | Jamón y queso (~100 %), caprese | Carne a cuchillo (lo que más sobró) | Manual de Palo |
 
-- Caprabo: 2 pedidos por semana (martes y jueves) de 120 cajas de 6 = 720 uds por pedido, ~1.440 uds por semana. **Dato interno de un empleado de Tío Bigotes: no citarlo a clientes ni a terceros.**
+- **Conclusión:** en cafeterías (las de Caprabo y Per Tutti) mandan carne y pollo y la caprese es de lo que menos vende; en eventos manda la caprese.
+- Cafeterías de Caprabo: 2 pedidos por semana (martes y jueves) de 120 cajas de 6 = 720 uds por pedido, ~1.440 uds por semana; Tío Bigotes las sirve en cajas de 6. **Dato interno de un empleado de Tío Bigotes: no citarlo a clientes ni a terceros.** Pendiente de preguntarle: cuántas cafeterías son (para sacar el consumo por cafetería y semana), si el pollo es suave o picante, si podrían servir a Two Bites en cajas de 6 y a qué precio, y si es Caprabo o Eroski (Caprabo está casi solo en Cataluña).
+- Las cafeterías de supermercado son canal directo de Tío Bigotes: no atacarlas.
 - En Palo, el pack de 6 tuvo cero ventas en todo el fin de semana (septiembre 2026).
 - Oficinas: sin datos de sabores todavía.
 
