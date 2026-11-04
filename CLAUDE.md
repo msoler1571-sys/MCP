@@ -1,6 +1,13 @@
 # Two Bites — contexto del negocio
 
-Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo que Marc confirme.
+Memoria persistente para futuras sesiones: producto, precios y reglas. Actualizar aquí cada dato operativo que Marc confirme; lo de cada lead va al Pipeline, no aquí.
+
+## Seguimiento comercial (este chat)
+
+- Este chat en la nube es la versión del móvil de «Seguimiento Pipeline Two Bites» del PC. Sigue siempre la skill `twobites-movil` (`.claude/skills/twobites-movil/`): respuestas cortas, solo borradores en Gmail (nunca enviar) y el pipeline al día.
+- **Pipeline Two Bites** (https://claude.ai/artifact/Ra6ovVK3zZ4srzH2WN7stN, colección `leads`): la única fuente de verdad de los leads. Se lee y se escribe con la herramienta `ArtifactData`, con las reglas de `.claude/skills/twobites-movil/reference/pipeline.md`: leer antes de escribir y pasar la `version`, añadir a `notas` sin pisarlas, nunca borrar un lead. Desde aquí se apunta directamente: no hace falta el bloque «Para apuntar» de la skill.
+- También lo mueven el chat del PC y un agente programado de lunes a viernes a las 8:30, que deja borradores. Antes de hablar de un lead, léelo en el pipeline: puede haber cambiado.
+- Aquí también hay Google Drive: la carpeta «06 Comercial y clientes» está sincronizada desde el PC (Tarifa Two Bites 2026-27, Precios y estrategia 2026-27, carpeta Presupuestos, carpetas por cliente). Los precios salen de la Tarifa: no se inventan.
 
 ## Producto
 
@@ -21,8 +28,8 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 
 - **Pedido entregado:** clásica o veggie 2,80 €, premium 3,40 €, alfajor mini 1,30 €. Mínimo 90 €. Entrega en Barcelona incluida desde 150 € (por debajo, 15 €). Se entregan recién horneadas, en cajas para abrir y comer, marcadas por sabor; veggie y halal en cajas aparte.
 - **Córner con horno in situ:** afterwork 14 €/persona (3 empanadas + 1 alfajor mini), cóctel de Navidad 12 €/persona. Mínimo 40 personas; desde 80, a medida. Entre semana desde las 18 h y fines de semana.
-- **Recena de boda con córner (propuesta a Mas Vidrier, 28/10/2026):** 9 €/invitado sin IVA, para el espacio (el precio a las parejas lo pone él). Incluye 2 empanadas por invitado con chimichurri y servilletas, horno propio y servicio de 2 personas hasta 2 h; hora extra 35 €. Mínimo 80 invitados (720 €).
-- **Profesional / congelado (cotizado, sin tarifa escrita todavía):**
+- **Recena de boda con córner (Mas Vidrier, presupuesto 027, 3/11/2026):** 7 €/invitado sin IVA, para el espacio (el precio a las parejas lo pone él). Incluye 2 empanadas por invitado con chimichurri y servilletas, horno propio y servicio de hasta 2 h; hora extra 35 €. Mínimo 30 invitados. Margen para bajar a 6,50 € y suelo de 6 €, solo a cambio de hacer todas sus recenas de 2027. Los 9 €/invitado con mínimo de 80 del 28/10 se descartaron: sus bodas son de unas 40 personas.
+- **Profesional / congelado (cotizaciones de oct 2026; la tarifa oficial es «Tarifa Two Bites 2026-27», en Drive):**
   - ByKoko (19/10/2026): clásica 1,55 €, premium 1,75 €; cajas de un sabor; mínimo 2 cajas en BCN, 4 fuera de zona; entrega 15 €, incluida desde 10 cajas.
   - Virginia / Luma, Llinars (16/10/2026): ~500 uds a 1,40 € clásica y 1,70 € premium, entrega incluida; desde el 2º pedido regular, 1,35 € y 1,65 €.
   - Coste de compra (Tío Bigotes): clásica 1,13 € congelada / 1,25 € cocinada; premium 1,30 € / 1,40 €. A 1,35 € la clásica cocinada deja solo 0,10 €/ud.
@@ -37,26 +44,10 @@ Memoria persistente para futuras sesiones. Actualizar aquí cada dato operativo 
 - Maquetación: ninguna sección puede quedar partida entre dos páginas; si no cabe, pasa entera a la siguiente.
 - Ejemplos de sabores: variados y repartidos (no repetir carne suave y carne a cuchillo, que son casi iguales; incluir atún y otros), al final del documento y como orientativos.
 
-- Último número usado: **023** (THEKER, 22/10/2026). Plantilla: Presupuesto_Fundacio_Eina.docx (nº 022) en Drive. En Drive también hay Presupuesto_024_THEKER (27/10/2026): confirmar con Marc antes de numerar el siguiente.
+- Numeración: el último presupuesto que consta es el **027** (Mas Vidrier, 3/11/2026); antes, 025 (THEKER, 30/10) y 026 (Ca n'Ayxelà, 3/11). Compruébalo en Drive («06 Comercial y clientes» → Presupuestos) antes de numerar el siguiente. Plantilla: Presupuesto_Fundacio_Eina.docx (nº 022).
 
-## Leads activos
+## Leads
 
-- **THEKER (Jessica):** reunión semanal de toda la empresa, viernes 18 h, Pere IV 78 (Poblenou). 60 personas, 120 empanadas (84 clásicas con 12 veggie y 2 halal + 36 premium) = 357,60 € + IVA por viernes, pedido entregado. 22/10/2026: propuesta enviada por WhatsApp; la valoran con dirección. Piden propuesta por mail: presupuesto 023 con dos opciones — A solo clásicas (120) 336,00 € + IVA; B clásicas y premium (84 + 36) 357,60 € + IVA. Modalidades: semana a semana (precio normal, sin compromiso, factura por pedido) o mes completo pagado por adelantado con −5 % (A 319,20 € / B 339,72 € por viernes). Gancho: alfajores mini de regalo el primer viernes; sin permanencia; precios fijos hasta 31/03/2027. Sin chimichurri. Mail con el PDF enviado el 22/10/2026, ofreciendo además caja de degustación recién horneada para el equipo. **27/10/2026: perdido por presupuesto** (finanzas: las empanadas no están en el budget; siguen con otras opciones de comida; "os tenemos presentes"). Siguiente paso: proponer un viernes al mes u ocasión especial (Navidad) y preguntar cuándo revisan el presupuesto del año que viene para recontactar.
-- **Marca Condal (Héctor):** alta como proveedor. Caja de degustación propuesta para el martes 27 o miércoles 28/10 a las 17:30 en Abat Samsó 14.
-- **Serunion UAB (Freddy → Carmen, 4 cafeterías):** Carmen está en la cafetería de Traducció hasta las 16–16:30 (tel. en el hilo). Las 4 cafeterías (Rectorat, Veterinària, Escola d'Enginyeria, Educació-Traducció = edificios A, V, Q, G) son el contrato CONSU-4/2024 que Serunion ganó en julio de 2024 (6,2 M€ sin IVA, 2 lotes). Marc les vendería empanada cruda congelada (coste 1,13 €). Preguntar si el pollo tiene que ser halal (se publicó que todo el pollo de Serunion en la UAB lo es; el nuestro no) y si un producto nuevo necesita aprobación de precio de la UAB. Propuesta de tarifa por volumen (cajas de las 4 juntas): base 1,45 € clásica / 0,80 € copetín; desde 20 cajas −5 % (1,38 / 0,76); desde 40 cajas −10 % (1,31 / 0,72). Calculadora para la reunión: https://claude.ai/artifact/EUwZyx6LdMUQCmg7unr5MA
-  - **28/10/2026: muestras entregadas** a Carmen y su equipo: 12 crudas etiquetadas por sabor (carne suave, jamón y queso, pollo, atún, caprese, espinaca y queso). Buena acogida. Las hornearán, se lo dirán a Freddy y después Marc le pasa los precios.
-  - Horneado que les explicó: 200 °C, 4 min, girar la bandeja y 4 min más; pintarlas con huevo para que doren (si lo hacen, el huevo pasa a ser alérgeno declarado).
-  - Competencia: ya venden crestas de Europastry (vegana, carn, pernil i formatge) a 2,20 € PVP, unas 5–10 al día (aclarar si es en Traducció o entre las 4).
-  - Carta "b'tes by Serunion" (foto 28/10): empanada gallega porció 2,35 €, croissant York i formatge 2,45 €, minis de bocadillo 2,80 €, bocadillos 3,05–4,45 €.
-  - A 2,20 € de PVP, a Carmen solo le quedan 0,55–0,69 €/ud (28–35 %). Propuesta pendiente de decidir: PVP 2,50 € (0,82–0,96 €/ud).
-- **Mas Vidrier (Ivan Perez, eventos@masvidrier.com, 626 258 325):** espacio de bodas a 10 min del obrador (Cervelló). 26/10: correo en frío sobre la recena. 28/10: Marc le adelanta tarifas: recena con córner 9 €/invitado (ver Precios) y, como alternativa, crudas congeladas para su equipo a 1,40 € clásica y 1,75 € premium, en cajas de 30 de un sabor y con entrega incluida. En ese correo se puso "halal bajo pedido": ya está en stock, corregirlo.
-  - **29/10/2026, visita:** muy rápida. Ivan no las probó allí; se dejaron horneadas en su nevera para que las pruebe la comercial, que es quien decide. Le enseñó la zona donde iría el córner. No se hicieron las preguntas preparadas.
-  - Datos: hacen unas 40 bodas al año; boda el viernes 30/10 y otra el sábado 31/10. Ya contratan una empresa para la recena (producto y precio sin preguntar).
-  - Siguiente paso: conseguir el contacto de la comercial y quedar con ella con empanadas recién horneadas.
-- **Prosper AI (Lina María Niño Rico, Workplace & Culture Manager BCN/MAD, lina.nino@getprosper.ai, +34 638 250 189; cc Gonzalo Muñoz, People Lead):** empresa tech. 28/10: Gonzalo responde a nuestro mensaje y pasa el tema a Lina, que lleva los eventos. 29/10: Marc propone una llamada de 20 min y el PDF a medida esa misma tarde; Lina quiere hablar, pero está fuera la semana del 2/11. 29/10: Marc se ofrece a ir a su oficina con empanadas recién horneadas. Lina acepta el lunes 9/11 a las 17:30 con Gonzalo, porque ella no vuelve hasta el 12, y pide que la llame para coordinar (638 250 189). Dirección: Carrer de Sardenya 229, 08013 Barcelona, oficinas 2-5 y 2-2, segunda planta. Borrador de respuesta (29/10, pendiente de enviar): pasarlo al jueves 12/11 a las 17:30 con Lina (y Gonzalo); si no, se mantiene el lunes 9 con Gonzalo. Las preguntas (tipos de evento, frecuencia, personas, horario y lugar, dietas y presupuesto) se dejan para la reunión, no por correo. El PDF se prepara después, con sus datos reales.
-- **Ca n'Ayxelà (Vinyet, organización de bodas, hola@canayxela.com; tel. 938 98 11 17 / 636 72 96 71):** masía-restaurante de bodas. 26/10: correo en frío en catalán sobre el ressopó. 29/10: Vinyet contesta que solo trabajan con su cocina y no dejan entrar comida externa, así que el córner no encaja; le gustan las empanadas y quiere probarlas. Borrador de respuesta (29/10, en catalán, pendiente de enviar): ofrecerles crudas congeladas para que las hornee su cocina, más una caja de cata horneada allí con su equipo, el martes 3/11 a las 17:30 o el viernes 6/11 a las 16:30.
-- **Take Studios (Keke):** quieren conocernos en su espacio; falta fijar día.
-- **ByKoko (Josep):** distribuidor de ferias. Caja de tasta en el congelador (regalada, factura anulada); "ja t'avisaré".
-- **Virginia / Luma (Llinars):** abren en ~1 mes; caja probada sin feedback; dos seguimientos sin respuesta.
-- **Aramark:** ya escrito a compras@aramark.es el 22/10 (alta proveedor UAB). Las cafeterías redirigen a la central.
-- Perdidos: Fundació Eina / DIFRACTA ’26 (eligieron otra propuesta; recontactar para DIFRACTA ’27), Giuliana Eye Events (al día siguiente también había empanadas).
+- El estado de cada lead está en el **Pipeline** (ver «Seguimiento comercial»). Aquí no se duplica.
+- Notas antiguas de este chat (22–29/10/2026), ya superadas por el Pipeline: `historico-leads-oct-2026.md`.
+- Calculadora de Serunion UAB, para enseñársela a Carmen o a Freddy: https://claude.ai/artifact/EUwZyx6LdMUQCmg7unr5MA
