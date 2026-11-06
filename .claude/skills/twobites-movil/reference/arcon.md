@@ -6,6 +6,7 @@ Página: https://claude.ai/artifact/Ta4V2LBRZR6E8L2sWWD5vA (herramienta `Artifac
 
 - 2 filas (pilas) de 4 cajas de 50 empanadas cocinadas, más el lateral: 1 caja de pie (50) y una cajita de alfajores.
 - Abajo, lo intacto. Arriba, lo manipulado en el evento anterior, que se gasta 1º o 2º.
+- En eventos se llevan siempre los mismos 4 sabores: **Carne a cuchillo, Pollo suave, Jamón y queso y Caprese**. Para decir qué sacar o qué falta, mira esos cuatro: el que menos haya marca hasta dónde llega un evento.
 - Como mucho 2 sabores por caja, a veces en dos capas (arriba y abajo). Al juntar restos, una caja puede llevar más de 50 (52, 62…).
 
 ## Colección `cajas` (un documento por hueco)
