@@ -24,6 +24,11 @@ Memoria persistente para futuras sesiones: producto, precios y reglas. Actualiza
   - Argumento "sin merma": del congelador al horno en 7–10 min, el cliente hornea solo lo que vende.
 - Copetín: 30–35 g, cajas de 40, coste 0,55 € crudo / 0,65 € cocinado.
 
+## Stock (arcón)
+
+- **Arcón Two Bites** (https://claude.ai/artifact/Ta4V2LBRZR6E8L2sWWD5vA, colecciones `cajas` y `recuentos`): la única fuente de verdad del stock. Marc lo rellena tocando las cajas o dictándolo en el chat; cómo leerlo y escribirlo, en `.claude/skills/twobites-movil/reference/arcon.md`.
+- El arcón: 2 filas de 4 cajas de 50 (cocinadas) apiladas, más el lateral (1 caja de pie de 50 y una cajita de alfajores). Abajo lo intacto; arriba lo manipulado del evento anterior, que se gasta 1º o 2º. Como mucho 2 sabores por caja, a veces en dos capas.
+
 ## Precios (sin IVA, vigentes oct 2026)
 
 - **Pedido entregado:** clásica o veggie 2,80 €, premium 3,40 €, alfajor mini 1,30 €. Mínimo 90 €. Entrega en Barcelona incluida desde 150 € (por debajo, 15 €). Se entregan recién horneadas, en cajas para abrir y comer, marcadas por sabor; veggie y halal en cajas aparte.

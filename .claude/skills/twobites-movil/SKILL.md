@@ -1,6 +1,6 @@
 ---
 name: twobites-movil
-description: Chat de Two Bites en la nube para cuando Marc está en el trabajo y escribe desde el móvil. Revisa Gmail (hola@twobites.es), le dice qué toca hoy, le propone respuestas y le deja los borradores en el mismo hilo sin enviar nada, y apunta los cambios del pipeline. Úsalo siempre que Marc pregunte "qué toca hoy", "¿ha contestado alguien?", "seguimientos", "ponme al día", "¿qué le contesto a…?", "prepárame la respuesta", "contéstale a…", "apúntalo", "descarta…", "aparca…", "les ha gustado la caja", "quiero cerrar con…", o pegue un email o un WhatsApp de un cliente.
+description: Chat de Two Bites en la nube para cuando Marc está en el trabajo y escribe desde el móvil. Revisa Gmail (hola@twobites.es), le dice qué toca hoy, le propone respuestas y le deja los borradores en el mismo hilo sin enviar nada, y apunta los cambios del pipeline. Úsalo siempre que Marc pregunte "qué toca hoy", "¿ha contestado alguien?", "seguimientos", "ponme al día", "¿qué le contesto a…?", "prepárame la respuesta", "contéstale a…", "apúntalo", "descarta…", "aparca…", "les ha gustado la caja", "quiero cerrar con…", o pegue un email o un WhatsApp de un cliente. También cuando dicte o pregunte el stock del arcón ("apunta en el arcón…", "¿cuántas me quedan de…?", "qué saco para el evento").
 ---
 
 # Two Bites · chat del móvil
@@ -11,6 +11,7 @@ Este chat es la versión en la nube del chat "Seguimiento Pipeline Two Bites" de
 - **Gmail** (hola@twobites.es): leer hilos, buscar y crear borradores. Es lo principal.
 - **Google Calendar**: si está conectado, para los avisos de cajas y llamadas.
 - **Pipeline** (https://claude.ai/artifact/Ra6ovVK3zZ4srzH2WN7stN, colección `leads`): si tienes una herramienta para leer y escribir la base de datos de ese artifact, úsala con las reglas de `reference/pipeline.md`. **Si no la tienes, no lo intentes por otros caminos**: trabaja solo con Gmail y lo que diga Marc, y al final deja el bloque "Para apuntar" (apartado 4). Marc lo pega por la noche en el chat del PC, que lo pasa al pipeline.
+- **Arcón Two Bites** (https://claude.ai/artifact/Ta4V2LBRZR6E8L2sWWD5vA, colecciones `cajas` y `recuentos`): el stock del arcón, caja a caja. Si Marc dicta lo que hay o pregunta cuántas quedan, sigue `reference/arcon.md`.
 - **No hay** acceso a los archivos del PC (Tarifa, flujo de ventas, plantilla del presupuesto) ni a Chrome. Los presupuestos en PDF y poner el enlace de la carta se hacen en el PC.
 
 **Hoy** es la fecha real: compruébala antes de calcular plazos.
