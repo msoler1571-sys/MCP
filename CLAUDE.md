@@ -29,7 +29,8 @@ Memoria persistente para futuras sesiones: producto, precios y reglas. Actualiza
 - **Arcón Two Bites** (https://claude.ai/artifact/Ta4V2LBRZR6E8L2sWWD5vA, colecciones `cajas` y `recuentos`): la única fuente de verdad del stock. Marc lo rellena tocando las cajas o dictándolo en el chat; cómo leerlo y escribirlo, en `.claude/skills/twobites-movil/reference/arcon.md`.
 - **En eventos (markets, córner) se llevan siempre 4 sabores:** carne a cuchillo, pollo, jamón y queso y caprese (Marc, 6/11/2026).
 - El arcón: 2 filas de 4 cajas de 50 (cocinadas) apiladas, más el lateral (1 caja de pie de 50 y una cajita de alfajores). Abajo lo intacto; arriba lo manipulado del evento anterior, que se gasta 1º o 2º. Como mucho 2 sabores por caja, a veces en dos capas.
-- **Control de eventos Two Bites** (https://claude.ai/artifact/SxEiLt7sW9swyeMsiDndEB, colección `eventos`): carga, ventas, invitaciones, merma, cuadre y caja de cada evento. El cambio inicial se puede contar por billetes y monedas: `caja.fondoDesglose` (unidades por valor en céntimos, p. ej. `"2000": 2` = 2 billetes de 20 €) y `caja.fondo` es la suma.
+- **Control de eventos Two Bites** (https://claude.ai/artifact/SxEiLt7sW9swyeMsiDndEB, colección `eventos`): carga, ventas, invitaciones, merma, cuadre y caja de cada evento. El cambio inicial y el efectivo al cerrar se pueden contar por billetes y monedas: `caja.fondoDesglose` y `caja.efectivoDesglose` (unidades por valor en céntimos, p. ej. `"2000": 2` = 2 billetes de 20 €); `caja.fondo` y `caja.efectivo` son la suma.
+- **Palo Market Fest** (mensual, Poblenou): de 12 a 22 h seguido; de 17:00 a 17:30 solo cambia el acceso del público, el puesto no se puede cerrar. Más de la mitad se vende de 19 a 22 h. Sábado 7/11/2026: 274 empanadas y 1.000 €; con 271 llevadas, se agotó hacia las 20:40. Plan y datos de septiembre: «Palo-Market-Plan-Integral-Two-Bites.pdf» en Drive.
 
 ## Precios (sin IVA, vigentes oct 2026)
 
